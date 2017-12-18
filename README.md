@@ -1,7 +1,7 @@
 # jb8-241514
 [Jinda](https://github.com/kul1/jinda) with [jinda_lte AdminBSB Theme](https://github.com/kul1/jinda_bsb) 
 
-[Demo](https://jb8-241514.herokuapp.com/) 
+[Demo](https://jb8-241514.herokuapp.com/adminbsbs/content-bsb.haml) 
 
 ![jinda flow](https://user-images.githubusercontent.com/3953832/34096052-81f00ec8-e399-11e7-944c-0df23ba154c4.png)
 
